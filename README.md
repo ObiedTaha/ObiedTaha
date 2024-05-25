@@ -6,6 +6,7 @@
 <hr>
 
 * 🌱 I’m currently Frontend Developer.
+* 🌱 I’m Learn .NET .
 * 📫 Education:
   - Full Stack Developer 9-months profissional Diploma Using .NET, Route Acdemy,
   - professional front end web development Ministry of Communications Information Technology (MCIT), Egypt.
@@ -13,8 +14,6 @@
     - Food court web App (Excellent grade).
     - 📫 How to reach me obiedramadan0@gmail.com
       <hr>
- 
-![Obaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=obiedtaha&theme=shadow_blue&show_icons=true)
 
 <br>
 
